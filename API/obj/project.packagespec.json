@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/API/API.csproj",
+    "projectName": "API",
+    "projectPath": "/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/API/API.csproj",
+    "outputPath": "/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/API/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Application/Application.csproj": {
+            "projectPath": "/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Application/Application.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

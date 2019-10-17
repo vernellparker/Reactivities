@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{021614C2-DC19-443B-8451-609B87668E42}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="API/Controllers/ValuesController.cs" Line="12" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reactivies" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Persistence" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

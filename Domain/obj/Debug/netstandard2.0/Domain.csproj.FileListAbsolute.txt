@@ -1,0 +1,16 @@
+/Users/vernellparker/Development/DevTraining/Reactivites/Reactivies/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/vernellparker/Development/DevTraining/Reactivites/Reactivies/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/vernellparker/Development/DevTraining/Reactivites/Reactivies/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/vernellparker/Development/DevTraining/Reactivites/Reactivies/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/vernellparker/Development/DevTraining/Reactivites/Reactivies/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/vernellparker/Development/DevTraining/Reactivites/Reactivies/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/vernellparker/Development/DevTraining/Reactivites/Reactivies/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/vernellparker/Development/DevTraining/Reactivites/Reactivies/Domain/obj/Debug/netstandard2.0/Domain.pdb
+/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/vernellparker/Development/DevTraining/Reactivities/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.pdb
